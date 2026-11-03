@@ -663,7 +663,6 @@ export default function AskDoubtsPage() {
               <input
                 id="profile-email"
                 type="email"
-                id="profile-email"
                 value={email}
                 disabled
               />
